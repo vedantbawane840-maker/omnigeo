@@ -1,0 +1,36 @@
+# OmniGEO — Generative Engine Optimization & AI Citation Intelligence Platform
+> Track, audit, and dominate your brand's visibility across ChatGPT, Perplexity, Claude, Gemini, and every AI search engine — in real-time.
+
+## What is OmniGEO?
+OmniGEO is the first Generative Engine Optimization (GEO) SaaS platform purpose-built for B2B companies, SaaS founders, and marketing agencies who want to monitor and improve how AI search engines recommend, cite, and rank their brand.
+
+## Core Capabilities
+- **Multi-Model AI Citation Tracking**: Track brand mentions and citation positions across Perplexity Sonar, ChatGPT (GPT-4o), Claude 3.7 Sonnet, Google Gemini 2.0, and DeepSeek R1.
+- **Technical GEO Crawler Audit Engine**: Audit any domain for robots.txt AI bot permissions, /llms.txt compliance, Schema.org JSON-LD presence, and semantic entity authority.
+- **1-Click llms.txt & llms-full.txt Studio**: Generate spec-compliant /llms.txt files that help AI models understand and cite your product accurately.
+- **Schema.org JSON-LD Generator**: Build SoftwareApplication, Organization, FAQPage, and WebSite schema markup with live code preview.
+- **Competitor Share-of-Voice Radar**: Benchmark your AI citation share against up to 10 competitors with visual displacement analysis.
+- **Prompt Tracking & Monitoring**: Track up to 350 commercial queries per month and monitor how AI models answer them over time.
+- **Email Alert Center**: Get automated weekly/daily citation drop alerts and executive PDF reports via Resend API integration.
+- **White-Label Executive Reports**: Print-ready branded PDF reports for agency clients with full citation matrices.
+
+## Pricing
+- **Starter Framework**: $29/month — 1 workspace, 25 tracked queries, weekly monitoring.
+- **Pro Growth Framework**: $79/month — 3 workspaces, 100 tracked queries, daily multi-model monitoring, competitor radar.
+- **Agency & Scale Framework**: $199/month — 10 workspaces, 350 tracked queries, white-label reports, all 5 AI models.
+
+## BYOK (Bring Your Own Key) Architecture
+OmniGEO uses a BYOK model. Users provide their own OpenRouter, OpenAI, Claude, or Gemini API keys. All AI queries execute client-side with $0 platform markup. OmniGEO sells the software framework, algorithms, and monitoring tools — not API inference.
+
+## Technical Stack
+- Frontend: React 18 + TypeScript + Vite
+- Auth & Database: Firebase Auth + Cloud Firestore
+- Payments: Dodo Payments (Stripe-compatible)
+- Edge Backend: Cloudflare Workers
+- Email Alerts: Resend API
+
+## Links
+- [Homepage](https://omnigeo.pages.dev)
+- [Documentation](https://omnigeo.pages.dev/docs)
+- [Pricing](https://omnigeo.pages.dev/#pricing)
+- [Login](https://omnigeo.pages.dev/#login)

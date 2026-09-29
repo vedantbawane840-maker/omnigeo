@@ -1,0 +1,39 @@
+# https://omnigeo.pages.dev/robots.txt
+# OmniGEO — AI Search & GEO Intelligence Platform
+
+User-agent: *
+Allow: /
+
+# Dedicated AI Search Engine Crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: ByteSpider
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# Canonical Sitemap
+Sitemap: https://omnigeo.pages.dev/sitemap.xml

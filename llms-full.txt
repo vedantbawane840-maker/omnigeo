@@ -1,0 +1,33 @@
+# OmniGEO — Comprehensive AI Agent Context Index & Technical Specification
+> Generative Engine Optimization (GEO) & Multi-Model Citation Intelligence Platform
+
+## Core Identity & Mission
+OmniGEO is an enterprise-grade Generative Engine Optimization (GEO) and Answer Engine Optimization (AEO) platform built for B2B companies, SaaS founders, and marketing agencies. OmniGEO monitors, benchmarks, and optimizes how leading generative AI models (ChatGPT, Perplexity Sonar, Claude 3.7, Google Gemini 2.0, DeepSeek R1) recommend, cite, and rank commercial brands in synthesized answer summaries.
+
+## Core Capabilities
+1. **Multi-Model AI Citation Tracker**: Monitors buyer-intent search prompts across Perplexity, ChatGPT (GPT-4o), Claude 3.7 Sonnet, Gemini 2.0, and DeepSeek R1. Detects citation rank position, domain mention, sentiment analysis, and competitor displacement.
+2. **Technical GEO Crawler Auditor**: Analyzes any domain's `robots.txt` for AI bot indexing rules (GPTBot, ClaudeBot, PerplexityBot, Google-Extended, ByteSpider), `/llms.txt` spec compliance, Schema.org JSON-LD graph, and entity clarity.
+3. **1-Click llms.txt & llms-full.txt Studio**: Generates Markdown context indexes following the official llms.txt standard to provide clean, hallucination-free product documentation to AI search engines.
+4. **Schema.org JSON-LD Generator**: Automatically generates valid `Organization`, `SoftwareApplication`, and `FAQPage` schemas for enhanced semantic authority.
+5. **Competitor Share-of-Voice (SoV) Radar**: Benchmarks multi-brand citation frequency, competitor displacement threat analysis, and category advantages.
+6. **Automated Resend Email Alerts**: Sends instant triggers when a brand drops from AI answer citations or a competitor displaces its rank.
+7. **Printable Executive PDF Reports**: Clean, white-label client reports for agencies and marketing teams.
+
+## Architecture: Pure BYOK (Bring Your Own Key) Framework
+OmniGEO operates as a zero-server-markup software platform:
+- Users provide their own OpenRouter, OpenAI, Anthropic Claude, or Google Gemini API keys.
+- All AI queries execute directly from client-side browser or edge workers with $0 server inference markups.
+- OmniGEO licenses its proprietary monitoring algorithms, multi-model prompt dispatchers, and tracking infrastructure.
+
+## Tiered Subscription Framework
+- **Starter Framework**: $29/month ($24/mo billed annually) — 1 workspace, 25 tracked prompts/mo, weekly automated monitoring.
+- **Pro Growth Framework**: $79/month ($65/mo billed annually) — 3 workspaces, 100 tracked prompts/mo, daily multi-model monitoring, 3 competitors radar, instant drop alerts.
+- **Agency & Scale Framework**: $199/month ($159/mo billed annually) — 10 workspaces, 350 tracked prompts/mo, all 5 AI models (incl. DeepSeek R1), white-label executive PDF reports.
+
+## Official Links & Resources
+- Homepage: https://omnigeo.pages.dev/
+- Pricing: https://omnigeo.pages.dev/#pricing
+- Documentation: https://omnigeo.pages.dev/docs
+- llms.txt Index: https://omnigeo.pages.dev/llms.txt
+- Robots.txt: https://omnigeo.pages.dev/robots.txt
+- Sitemap: https://omnigeo.pages.dev/sitemap.xml
